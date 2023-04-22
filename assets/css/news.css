@@ -1,0 +1,21 @@
+ /* Styling for the post */
+ .post {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    z-index: 0;
+    color:#ccc;
+    border-radius: 20px;
+    background-color:#615798 ;
+  }
+
+  /* Styling for the voting buttons */
+  .vote {
+    display: inline-block;
+    margin-top:8px ;
+  }
+
+  .news{
+    display: flex;
+    flex-direction: column;
+  }

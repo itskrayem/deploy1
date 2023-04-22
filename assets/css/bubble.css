@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+*{
+   
+    transition: all;
+    outline: none; border:none;
+    text-decoration: none;
+    text-align: center;
+   
+
+}
+
+#bubble-hover{
+    
+    font-size: 40px;
+    color: #bdbdff;
+    font-weight: 300;
+    cursor: default;
+    margin: 0;
+    white-space: nowrap;
+    width: 25%;
+}
+
+.hovered{
+    color: #fbfbfb;
+    font-weight: 900;
+}
+
+.hovered-adjacent{
+    color: #ccccfa;
+    font-weight: 500;
+
+}
+
+
+/* @media(max-width:1400px){
+    #bubble-hover{
+        font-size: 30px;
+    }
+} */
